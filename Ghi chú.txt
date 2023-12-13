@@ -1,0 +1,7 @@
+Nhóm sinh viên thực hiện: 
+   	Lê Văn Khải		     	MSSV: 2124802010723
+  	Đỗ Ngọc Thành Long        	MSSV: 2124802010746
+  	Đặng Đức Lâm			MSSV: 2124802010742
+ĐỀ TÀI: XÂY DỰNG TRANG WEB BÁN LAP TOP VÀ LINH KIỆN ĐIỆN TỬ
+	
+actack database: WEBSHOP_CKLT\WEBSHOP_CKLT\App_Data 
